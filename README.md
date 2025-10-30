@@ -1,7 +1,7 @@
 # CCNA-Basics
 # (Cisco Certified Network Associate)
 
-This document summarizes the fundamentals of CCNA networking — ideal for beginners preparing for the CCNA 200-301 exam or starting a networking career.
+This document summarizes the fundamentals of CCNA networking — ideal for beginners preparing for the CCNA starting a networking career.
 
 ---
 
